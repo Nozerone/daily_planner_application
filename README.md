@@ -10,5 +10,5 @@ This app does not requeire installation.
 
 
 Deployed link:
-
+https://nozerone.github.io/daily_planner_application/
 
